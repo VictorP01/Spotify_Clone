@@ -1,0 +1,14 @@
+{
+  "name": "spotify_clone",
+  "version": "1.0.0",
+  "description": "Clone do spotify para praticar o framework tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
